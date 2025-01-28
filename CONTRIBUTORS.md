@@ -7,6 +7,8 @@ Soon YOU will also be called a open Source Contributor. Fill in your details bel
 - **About Her**: I am a software engineer passionate about open-source contributions and machine learning.
 
 ---
+ **Syed Ali Sultan**
+- **GitHub URL**: [https://github.com/alishah18105)
 
 
 
