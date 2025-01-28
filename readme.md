@@ -73,23 +73,9 @@ Here’s an idea for your GitHub repository **README.md** to guide people on per
 
 ---
 
-# Welcome to [Repository Name]! 🎉  
 
-## 🚀 Get Started with Your First Contribution  
 
-Thank you for stopping by! This repository is designed to help you learn how to contribute to open-source projects. Whether you’re a beginner or have some experience, here’s your chance to make your first contribution.
-
----
-
-## 📚 What’s Inside?
-
-- Step-by-step instructions for your first contribution  
-- A friendly community for support  
-- Simple tasks to get started (no experience required!)  
-
----
-
-## 🛠️Do your First Open Source Contribution 
+## 🛠️Do your First Open Source Contribution  🎉
 
 1. **Fork this  Repository**  
    - Click the "Fork" button at the top-right corner of this page.  
