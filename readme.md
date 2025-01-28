@@ -14,16 +14,16 @@ The term open source means that anyone can see, understand, learn, modify, or di
 
 Open source powers some of the world's most influential technologies, including:
 
-- **Linux**
-- **Android**
-- **Firefox**
-- **Chromium**
-- **MySQL**
-- **Git**
-- **TensorFlow**
-- **PyTorch**
-- **Kubernetes**
-- **Docker**
+- [**Linux**](https://www.kernel.org/)
+- [**Android**](https://www.android.com/)
+- [**Firefox**](https://www.mozilla.org/en-US/firefox/new/)
+- [**Chromium**](https://www.chromium.org/)
+- [**MySQL**](https://www.mysql.com/)
+- [**Git**](https://git-scm.com/)
+- [**TensorFlow**](https://www.tensorflow.org/)
+- [**PyTorch**](https://pytorch.org/)
+- [**Kubernetes**](https://kubernetes.io/)
+- [**Docker**](https://www.docker.com/)
 
 #### Benefits of Contributing:
 
@@ -168,4 +168,7 @@ Congratulations! 🎉 You’ve made your first contribution to open source.
 Open source contribution is a journey of growth, collaboration, and impact. By following this guide, you can start small, gradually build confidence, and become an active member of the global developer community. Remember, every contribution—big or small—matters. 
 
 Start your journey today and enjoy the process of learning, creating, and giving back. Happy coding! 🎉
-Feel free to reach out with any questions or thoughts during the session. Let’s learn and grow together! 🎉 [Linkedin] (https://www.linkedin.com/in/imama-kainat/)
+Feel free to reach out with any questions or thoughts during the session. Let’s learn and grow together! 🎉
+
+You can connect with me on LinkedIn:  
+[Imama Kainat](https://www.linkedin.com/in/imama-kainat/)
