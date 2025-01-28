@@ -57,10 +57,10 @@ Before contributing, ensure you have the following:
 There are countless open source projects to contribute to. Here are some ways to find the right one:
 
 1. **Platforms to Explore**:
-   - **GitHub Explore**: Discover trending repositories.
+   - [GitHub Explore](https://github.com/explore) to discover trending repositories and new projects!
    - **First Contributions**: [Link](https://firstcontributions.github.io/)
    - **CodeTriage**: [Link](https://www.codetriage.com/)
-   - **Good First Issues**: Search GitHub for `label:"good first issue"`.
+   -Search for [Good First Issues](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) on GitHub and start contributing to open-source projects!
    - **Google Summer of Code (GSoC)**: Explore participating organizations.
 
 2. **Find What You Love**:
