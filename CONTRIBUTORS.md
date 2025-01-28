@@ -1,6 +1,6 @@
 # Contributor's Information
 
-Soon YOu will also be called a open Source Contributor. Please fill in your details below like example:🤗
+Soon YOU will also be called a open Source Contributor. Fill in your details below like example:🤗
 
 - **Imama Kainat**
 - **GitHub URL**: [https://github.com/Imama-Kainat)
