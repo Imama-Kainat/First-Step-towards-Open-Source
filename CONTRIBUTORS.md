@@ -16,4 +16,11 @@ Soon YOU will also be called a open Source Contributor. Fill in your details bel
 - **Zainab Eman**
 - **GitHub URL**: [https://github.com/Imama-Kainat)
 
+---
+
+ **Muhammad Safwan Ahmad Saffi**
+- **GitHub URL**: [https://github.com/safwanahmadsaffi)
+
+---
+
 Feel free to submit a pull request with your details!
